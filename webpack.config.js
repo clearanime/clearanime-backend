@@ -49,9 +49,9 @@ module.exports = {
                 { from: "static", to: "." },
             ],
         }),
-        new WasmPackPlugin({
-            crateDirectory: "./third_party/ani-ss",
-            outDir: path.resolve(__dirname, "./third_party/ani-ss/pkg")
-        }),
+        //new WasmPackPlugin({
+        //    crateDirectory: "./third_party/ani-ss",
+        //    outDir: path.resolve(__dirname, "./third_party/ani-ss/pkg")
+        //}),
     ]
 };
