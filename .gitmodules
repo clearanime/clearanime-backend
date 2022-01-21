@@ -1,0 +1,3 @@
+[submodule "third_party/ani-ss"]
+	path = third_party/ani-ss
+	url = https://github.com/pinnouse/ani-ss.git
