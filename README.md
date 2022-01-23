@@ -7,8 +7,7 @@ A web application that scrapes anime and displays them in a neatly designed UI.
 1. Anime upscaling in browser (e.g. 720p to 1080p)
 
 ## Screenshots
-
-(Yazak still needs to work on the UI)
+![image](https://user-images.githubusercontent.com/53213763/150688953-3582fbbd-842f-47c2-9008-090726da519b.png)
 
 ## Building & running
 
