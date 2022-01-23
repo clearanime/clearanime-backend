@@ -17,3 +17,6 @@ cd clearanime
 yarn run-dev / npm run-dev
 
 ```
+=============================
+### Inspirations
+- https://github.com/bloc97/Anime4K
