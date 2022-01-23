@@ -1,6 +1,5 @@
 const path = require("path");
 const CopyPlugin = require("copy-webpack-plugin");
-const WasmPackPlugin = require('@wasm-tool/wasm-pack-plugin');
 
 const dist = path.resolve(__dirname, "dist");
 
@@ -48,10 +47,6 @@ module.exports = {
             patterns: [
                 { from: "static", to: "." },
             ],
-        }),
-        //new WasmPackPlugin({
-        //    crateDirectory: "./third_party/ani-ss",
-        //    outDir: path.resolve(__dirname, "./third_party/ani-ss/pkg")
-        //}),
+        })
     ]
 };

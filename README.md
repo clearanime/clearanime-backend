@@ -15,8 +15,6 @@ A web application that scrapes anime and displays them in a neatly designed UI.
 ```
 git clone https://github.com/clearanime/clearanime.git
 cd clearanime
-yarn install wasm-pack / npm install wasm-pack
-extract the zip file into third_party/ani-ss
 yarn run-dev / npm run-dev
 
 ```

@@ -1,0 +1,242 @@
+{
+    "mal_details": {
+        "alternative_titles": {
+            "en": "Jing: King of Bandits",
+            "ja": "王ドロボウ JING",
+            "synonyms": [
+                "King of Bandit Jing"
+            ]
+        },
+        "average_episode_duration": 1440,
+        "background": "",
+        "created_at": "2005-11-11T14:17:22+00:00",
+        "end_date": "2002-08-14",
+        "genres": [
+            {
+                "id": 2,
+                "name": "Adventure"
+            },
+            {
+                "id": 4,
+                "name": "Comedy"
+            },
+            {
+                "id": 10,
+                "name": "Fantasy"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            },
+            {
+                "id": 27,
+                "name": "Shounen"
+            }
+        ],
+        "id": 107,
+        "main_picture": {
+            "large": "https://api-cdn.myanimelist.net/images/anime/1961/92115l.jpg",
+            "medium": "https://api-cdn.myanimelist.net/images/anime/1961/92115.jpg"
+        },
+        "mean": 7.21,
+        "media_type": "tv",
+        "nsfw": "white",
+        "num_episodes": 13,
+        "num_list_users": 34827,
+        "num_scoring_users": 13002,
+        "pictures": [
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/12/7264l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/12/7264.jpg"
+            },
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/5/7522l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/5/7522.jpg"
+            },
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/3/20391l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/3/20391.jpg"
+            },
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/1961/92115l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/1961/92115.jpg"
+            }
+        ],
+        "popularity": 3105,
+        "rank": 2829,
+        "rating": "pg_13",
+        "recommendations": [
+            {
+                "node": {
+                    "id": 486,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/1763/95397l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/1763/95397.jpg"
+                    },
+                    "title": "Kino no Tabi: The Beautiful World"
+                },
+                "num_recommendations": 7
+            },
+            {
+                "node": {
+                    "id": 3588,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/9/7804l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/9/7804.jpg"
+                    },
+                    "title": "Soul Eater"
+                },
+                "num_recommendations": 2
+            },
+            {
+                "node": {
+                    "id": 8310,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/13/46095l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/13/46095.jpg"
+                    },
+                    "title": "Magic Kaito"
+                },
+                "num_recommendations": 2
+            },
+            {
+                "node": {
+                    "id": 121,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/10/75815l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/10/75815.jpg"
+                    },
+                    "title": "Fullmetal Alchemist"
+                },
+                "num_recommendations": 1
+            },
+            {
+                "node": {
+                    "id": 5538,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/9/84685l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/9/84685.jpg"
+                    },
+                    "title": "Tegamibachi: Hikari to Ao no Gensou Yawa"
+                },
+                "num_recommendations": 1
+            },
+            {
+                "node": {
+                    "id": 20,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/13/17405l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/13/17405.jpg"
+                    },
+                    "title": "Naruto"
+                },
+                "num_recommendations": 1
+            },
+            {
+                "node": {
+                    "id": 68,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/1485/110010l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/1485/110010.jpg"
+                    },
+                    "title": "Black Cat (TV)"
+                },
+                "num_recommendations": 1
+            },
+            {
+                "node": {
+                    "id": 4981,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/8/23336l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/8/23336.jpg"
+                    },
+                    "title": "Casshern Sins"
+                },
+                "num_recommendations": 1
+            },
+            {
+                "node": {
+                    "id": 457,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/2/73862l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/2/73862.jpg"
+                    },
+                    "title": "Mushishi"
+                },
+                "num_recommendations": 1
+            },
+            {
+                "node": {
+                    "id": 24909,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/12/64975l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/12/64975.jpg"
+                    },
+                    "title": "Kaitou Joker"
+                },
+                "num_recommendations": 1
+            }
+        ],
+        "related_anime": [
+            {
+                "node": {
+                    "id": 108,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/5/30325l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/5/30325.jpg"
+                    },
+                    "title": "Ou Dorobou Jing in Seventh Heaven"
+                },
+                "relation_type": "sequel",
+                "relation_type_formatted": "Sequel"
+            }
+        ],
+        "related_manga": [],
+        "source": "manga",
+        "start_date": "2002-05-15",
+        "start_season": {
+            "season": "spring",
+            "year": 2002
+        },
+        "statistics": {
+            "num_list_users": 34839,
+            "status": {
+                "completed": "17289",
+                "dropped": "1801",
+                "on_hold": "1512",
+                "plan_to_watch": "12789",
+                "watching": "1448"
+            }
+        },
+        "status": "finished_airing",
+        "studios": [
+            {
+                "id": 37,
+                "name": "Studio Deen"
+            }
+        ],
+        "synopsis": "Jing may appear to be a young boy, but his remarkable skills make him one of the most feared thieves on the planet. Along with his feathered partner Kir, Jing travels from town to town, stealing anything of value regardless of the amount of security. But when he's in a pinch, he has one more trick up his sleeve: Kir bonds with Jing's right arm to perform the effectively deadly \"Kir Royale\" attack. And because of all this, Jing is infamously known by many as the \"King of Bandits.\" \n",
+        "title": "Ou Dorobou Jing",
+        "updated_at": "2022-01-18T16:59:45+00:00"
+    },
+    "last_updated": 0,
+    "variants": [
+        {
+            "id": "jing-cui-xian-zun",
+            "label": "Jing Cui Xian Zun",
+            "episodes": [
+                {
+                    "label": "0",
+                    "link": "https://www29.gogoplay.in/www03/6ogfsZO-hMQb0zpq3GxU1Q/1642969428/75a5329a65778ce2e8752eead2cc0874/ep.1.v0.1642499642.m3u8",
+                    "added_in": 1642893290
+                },
+                {
+                    "label": "1",
+                    "link": "https://www12.gogoplay.in/www04/ltGgzDSQsK1eARx7hFEDpg/1642952020/3066bf38795b51bdf5e741aa22fa8c57/ep.2.v0.1642499162.m3u8",
+                    "added_in": 1642893290
+                }
+            ],
+            "last_updated": 1642893290
+        }
+    ]
+}

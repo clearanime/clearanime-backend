@@ -2,11 +2,10 @@
   "scripts": {
     "clean": "yarn rimraf site",
     "build": "yarn clean && yarn webpack",
-    "run-dev": "yarn clean && yarn webpack-dev-server --open --https"
+    "start": "cargo run -p web-server"
   },
   "devDependencies": {
     "@swc/core": "^1.2.133",
-    "@wasm-tool/wasm-pack-plugin": "^1.6.0",
     "copy-webpack-plugin": "^10.2.1",
     "rimraf": "^3.0.2",
     "swc-loader": "^0.1.15",
@@ -15,7 +14,6 @@
     "webpack-dev-server": "^4.7.3"
   },
   "dependencies": {
-    "hls.js": "^1.1.3",
-    "wasm-pack": "^0.10.2"
+    "hls.js": "^1.1.3"
   }
 }

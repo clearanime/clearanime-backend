@@ -1,0 +1,271 @@
+{
+    "mal_details": {
+        "alternative_titles": {
+            "en": "",
+            "ja": "機甲警察 メタルジャック",
+            "synonyms": [
+                "Armored Police Metal Jack"
+            ]
+        },
+        "average_episode_duration": 1380,
+        "background": "",
+        "created_at": "2007-10-28T19:54:56+00:00",
+        "end_date": "1991-12-23",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Action"
+            },
+            {
+                "id": 18,
+                "name": "Mecha"
+            },
+            {
+                "id": 39,
+                "name": "Police"
+            },
+            {
+                "id": 24,
+                "name": "Sci-Fi"
+            }
+        ],
+        "id": 3315,
+        "main_picture": {
+            "large": "https://api-cdn.myanimelist.net/images/anime/2/77278l.jpg",
+            "medium": "https://api-cdn.myanimelist.net/images/anime/2/77278.jpg"
+        },
+        "mean": 6.26,
+        "media_type": "tv",
+        "nsfw": "white",
+        "num_episodes": 37,
+        "num_list_users": 1036,
+        "num_scoring_users": 147,
+        "pictures": [
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/2/27312l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/2/27312.jpg"
+            },
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/2/77278l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/2/77278.jpg"
+            },
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/1556/92209l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/1556/92209.jpg"
+            },
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/1060/119075l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/1060/119075.jpg"
+            }
+        ],
+        "popularity": 11197,
+        "rank": 7387,
+        "rating": "pg_13",
+        "recommendations": [
+            {
+                "node": {
+                    "id": 3035,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/11/23045l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/11/23045.jpg"
+                    },
+                    "title": "Chouon Senshi Borgman"
+                },
+                "num_recommendations": 1
+            }
+        ],
+        "related_anime": [],
+        "related_manga": [],
+        "source": "original",
+        "start_date": "1991-04-08",
+        "start_season": {
+            "season": "spring",
+            "year": 1991
+        },
+        "statistics": {
+            "num_list_users": 1035,
+            "status": {
+                "completed": "234",
+                "dropped": "92",
+                "on_hold": "58",
+                "plan_to_watch": "587",
+                "watching": "64"
+            }
+        },
+        "status": "finished_airing",
+        "studios": [
+            {
+                "id": 14,
+                "name": "Sunrise"
+            }
+        ],
+        "synopsis": "Twenty years into the future, a city now called \"Tokyo\" has developed into one of the few world-class high-tech centers, \"Tokyo City.\" The main character, Ken Kanzaki, is a young investigator assigned to the criminal investigation section of the Metropolital Police. He is one of the finest sharp shooters in the Police.One day, Ken is ordered to provide security for a party held by for \"Zaizen Konzern,\" a world-class plutocracy.\n\nAll of a sudden, spector robots appear and distrupt the party. Zaizen, a commander-in-chief, is killed and both Ken and Jun. Zaizen's son,are fatally injured by the robots. Two of the party's guests, an auto-racer, Ryo Aguri,and a wresler, Go Goda, also receive serious injuries. Three severely injured young men are operated upon by scientists from the Metropolitan Police. Several days later, a robot corp led by a mysterious organization called \"Ido\" appears in the floating-town of the Tokyo Bay. But the Police and the Army have no effective strategies to contain them.\n\nAt that moment, three young men attired in mechanical suits enter. They are the very three young men, Ken, Ryo and Go, who have been turned into the cyborg investigators through the operation. They call themselves \"Armored Police Metal Jacks\". \"Metal Jacks,\" dazzlingly switching from \"Jack Suits\" to \"Jack Armors,\" completely demolish the robot corp and achieve victory, thus signals the beginning of the battle between the high-tech criminals and \"Metal Jacks\" with a futuristic \"Tokyo City\" in the background.",
+        "title": "Kikou Keisatsu Metal Jack",
+        "updated_at": "2020-09-27T13:59:06+00:00"
+    },
+    "last_updated": 0,
+    "variants": [
+        {
+            "id": "kikou-keisatsu-metal-jack",
+            "label": "Kikou Keisatsu Metal Jack",
+            "episodes": [
+                {
+                    "label": "0",
+                    "link": "https://www09.gogoplay.in/www01/Cq4x9xtzw6YgeTyHze94fQ/1642979805/abe1c667fa09c0ebfbd86346153f8512/ep.1.1614412440.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "10",
+                    "link": "https://www09.gogoplay.in/www04/Cq4x9xtzw6YgeTyHze94fQ/1642979805/45f5d872dcdbc028f57748518ac51ada/ep.11.1614412140.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "11",
+                    "link": "https://www06.gogoplay.in/www04/Cq4x9xtzw6YgeTyHze94fQ/1642979805/c82e9f7e24d9a660733e3f5d175ecf6e/ep.12.1614410257.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "12",
+                    "link": "https://www15.gogoplay.in/www03/Cq4x9xtzw6YgeTyHze94fQ/1642979805/b300fe398726c84beb04cd3d93abaea5/ep.13.1614411159.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "1",
+                    "link": "https://www01.gogoplay.in/www02/Cq4x9xtzw6YgeTyHze94fQ/1642979805/c28c292aded7c451845880a12f9eeecb/ep.2.1614410095.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "13",
+                    "link": "https://www13.gogoplay.in/www01/Cq4x9xtzw6YgeTyHze94fQ/1642979805/88d31f69dbe7ac6723281d7d9d0ccf3b/ep.14.1614410264.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "14",
+                    "link": "https://www11.gogoplay.in/www02/Cq4x9xtzw6YgeTyHze94fQ/1642979805/0af7692cd54f61d0f9af68bd6ce1de3b/ep.15.1616396113.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "15",
+                    "link": "https://www01.gogoplay.in/www04/Cq4x9xtzw6YgeTyHze94fQ/1642979805/dd7be7c4aa3cede638bbf1f096640cbe/ep.16.1616396595.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "16",
+                    "link": "https://www10.gogoplay.in/www03/Cq4x9xtzw6YgeTyHze94fQ/1642979805/d90bfca8b080064ab75e321f03fc4318/ep.17.1616395652.m3u8",
+                    "added_in": 1642893405
+                },
+                {
+                    "label": "18",
+                    "link": "https://www15.gogoplay.in/www03/Lg2zbENs0hB5suZMsE53gw/1642979806/9b228331c63540ce78dd7fa041178522/ep.19.1616396603.m3u8",
+                    "added_in": 1642893406
+                },
+                {
+                    "label": "19",
+                    "link": "https://www09.gogoplay.in/www04/Lg2zbENs0hB5suZMsE53gw/1642979806/312e17c1d0daec7c1d1158ef47ab06ed/ep.20.1616395963.m3u8",
+                    "added_in": 1642893406
+                },
+                {
+                    "label": "21",
+                    "link": "https://www04.gogoplay.in/www02/Lg2zbENs0hB5suZMsE53gw/1642979806/46d9fa3868ca02725fddecc73b64e6d3/ep.22.1626003211.m3u8",
+                    "added_in": 1642893407
+                },
+                {
+                    "label": "23",
+                    "link": "https://www17.gogoplay.in/www01/7TK4QGgK4lXDPdJZfgZWcw/1642979807/78924e7bdf9c4be1aaca0a04a30d5447/ep.24.1626005014.m3u8",
+                    "added_in": 1642893407
+                },
+                {
+                    "label": "24",
+                    "link": "https://www09.gogoplay.in/www02/qdOQ8KxHOCVghD2i7kHy2Q/1642979808/c4216b30992c1a3d1946654ab33f0494/ep.25.1626009216.m3u8",
+                    "added_in": 1642893408
+                },
+                {
+                    "label": "25",
+                    "link": "https://www14.gogoplay.in/www04/qdOQ8KxHOCVghD2i7kHy2Q/1642979808/23bbdb5672d38a84521ad4b58eb7352a/ep.26.1626004423.m3u8",
+                    "added_in": 1642893408
+                },
+                {
+                    "label": "22",
+                    "link": "https://www17.gogoplay.in/www02/SbcP3kXbwb85biPwvVLXXw/1642979810/9c88e533378a7b6a3fd5469055be9242/ep.23.1626002322.m3u8",
+                    "added_in": 1642893410
+                },
+                {
+                    "label": "27",
+                    "link": "https://www14.gogoplay.in/www03/G_avfob79_hhaWXwEfL6lQ/1642979811/207dfde3c344af7de69058cd4340a38d/ep.28.v0.1642398422.m3u8",
+                    "added_in": 1642893411
+                },
+                {
+                    "label": "28",
+                    "link": "https://www30.gogoplay.in/www04/G_avfob79_hhaWXwEfL6lQ/1642979811/dc6ea7bcf8551a6d8851a629dfe8071a/ep.29.v0.1642399262.m3u8",
+                    "added_in": 1642893411
+                },
+                {
+                    "label": "29",
+                    "link": "https://www24.gogoplay.in/www04/LDB07ueccPEdXxqr4E3DYA/1642979812/1298085fafbeb47340726befc44be8e2/ep.30.v0.1642398722.m3u8",
+                    "added_in": 1642893412
+                },
+                {
+                    "label": "26",
+                    "link": "https://www22.gogoplay.in/www01/ykTSGyFdYFhFfLbmRLnEJw/1642979813/2cb0da8ac01f1d5616ee89e412968cc6/ep.27.v0.1642398422.m3u8",
+                    "added_in": 1642893413
+                },
+                {
+                    "label": "3",
+                    "link": "https://www09.gogoplay.in/www01/ykTSGyFdYFhFfLbmRLnEJw/1642979813/b04e26d175dfc5cb9589fe0b194ad34f/ep.4.1614410556.m3u8",
+                    "added_in": 1642893413
+                },
+                {
+                    "label": "17",
+                    "link": "https://www18.gogoplay.in/www04/ykTSGyFdYFhFfLbmRLnEJw/1642979813/9f3a070915a697b8115f548bbadf1bfc/ep.18.1616395959.m3u8",
+                    "added_in": 1642893413
+                },
+                {
+                    "label": "4",
+                    "link": "https://www10.gogoplay.in/www02/ykTSGyFdYFhFfLbmRLnEJw/1642979813/cab4f7feb6ff14d6653f7b1e63f09437/ep.5.1614410705.m3u8",
+                    "added_in": 1642893413
+                },
+                {
+                    "label": "20",
+                    "link": "https://www11.gogoplay.in/www04/M53zbZyLNSGCN82jyK9TJQ/1642979814/33e3de00a1b6e0d9072b268a36ed95d1/ep.21.1626004628.m3u8",
+                    "added_in": 1642893414
+                },
+                {
+                    "label": "2",
+                    "link": "https://www13.gogoplay.in/www03/mmfgOdVaeuzYylNGKeosmQ/1642979817/74a63343d766fe382bf3454bcd078e34/ep.3.1614411456.m3u8",
+                    "added_in": 1642893417
+                },
+                {
+                    "label": "30",
+                    "link": "https://www09.gogoplay.in/www04/mmfgOdVaeuzYylNGKeosmQ/1642979817/f6064f8bc6118ae81ebf61b129b199a8/ep.31.v0.1642399202.m3u8",
+                    "added_in": 1642893417
+                },
+                {
+                    "label": "5",
+                    "link": "https://www01.gogoplay.in/www04/mmfgOdVaeuzYylNGKeosmQ/1642979817/86c33bd3a743e8bee4044253fe18206a/ep.6.1614412287.m3u8",
+                    "added_in": 1642893417
+                },
+                {
+                    "label": "8",
+                    "link": "https://www11.gogoplay.in/www01/mmfgOdVaeuzYylNGKeosmQ/1642979817/0d12fb0b59ea364c2773441459f09ec5/ep.9.1614410409.m3u8",
+                    "added_in": 1642893417
+                },
+                {
+                    "label": "9",
+                    "link": "https://www12.gogoplay.in/www03/mmfgOdVaeuzYylNGKeosmQ/1642979817/ef81a3710e304ff62de2f550d2534761/ep.10.1614410567.m3u8",
+                    "added_in": 1642893417
+                },
+                {
+                    "label": "6",
+                    "link": "https://www09.gogoplay.in/www01/mmfgOdVaeuzYylNGKeosmQ/1642979817/4073846bc43590d1def2bc615a17028d/ep.7.1614409950.m3u8",
+                    "added_in": 1642893417
+                },
+                {
+                    "label": "7",
+                    "link": "https://www18.gogoplay.in/www04/RfroIjBlpGYNKuXvo6WEdw/1642979818/e60d17dab839c20ffe67f8905ca2c18c/ep.8.1614411313.m3u8",
+                    "added_in": 1642893418
+                }
+            ],
+            "last_updated": 1642893418
+        }
+    ]
+}

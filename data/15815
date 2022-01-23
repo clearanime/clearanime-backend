@@ -1,0 +1,175 @@
+{
+    "mal_details": {
+        "alternative_titles": {
+            "en": "",
+            "ja": "焼跡の, お菓子の木",
+            "synonyms": [
+                "Sensou Douwa 5",
+                "Burning, Candy Tree"
+            ]
+        },
+        "average_episode_duration": 2700,
+        "background": "",
+        "created_at": "2012-10-07T19:37:13+00:00",
+        "end_date": "2006-08-15",
+        "genres": [
+            {
+                "id": 8,
+                "name": "Drama"
+            },
+            {
+                "id": 15,
+                "name": "Kids"
+            }
+        ],
+        "id": 15815,
+        "main_picture": {
+            "large": "https://api-cdn.myanimelist.net/images/anime/9/42867l.jpg",
+            "medium": "https://api-cdn.myanimelist.net/images/anime/9/42867.jpg"
+        },
+        "mean": 6.01,
+        "media_type": "special",
+        "nsfw": "white",
+        "num_episodes": 1,
+        "num_list_users": 389,
+        "num_scoring_users": 116,
+        "pictures": [
+            {
+                "large": "https://api-cdn.myanimelist.net/images/anime/9/42867l.jpg",
+                "medium": "https://api-cdn.myanimelist.net/images/anime/9/42867.jpg"
+            }
+        ],
+        "popularity": 13849,
+        "rank": 8592,
+        "rating": "g",
+        "recommendations": [],
+        "related_anime": [
+            {
+                "node": {
+                    "id": 5192,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/1007/111579l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/1007/111579.jpg"
+                    },
+                    "title": "Kiku-chan to Ookami"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            },
+            {
+                "node": {
+                    "id": 7775,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/9/18829l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/9/18829.jpg"
+                    },
+                    "title": "Futatsu no Kurumi"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            },
+            {
+                "node": {
+                    "id": 10901,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/5/30086l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/5/30086.jpg"
+                    },
+                    "title": "Aoi Hitomi no Onnanoko no Ohanashi"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            },
+            {
+                "node": {
+                    "id": 20207,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/11/53783l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/11/53783.jpg"
+                    },
+                    "title": "Boku no Boukuugou"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            },
+            {
+                "node": {
+                    "id": 20225,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/2/53835l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/2/53835.jpg"
+                    },
+                    "title": "Umigame to Shounen"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            },
+            {
+                "node": {
+                    "id": 20235,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/2/53851l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/2/53851.jpg"
+                    },
+                    "title": "Tako ni Natta Okaasan"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            },
+            {
+                "node": {
+                    "id": 24883,
+                    "main_picture": {
+                        "large": "https://api-cdn.myanimelist.net/images/anime/5/64753l.jpg",
+                        "medium": "https://api-cdn.myanimelist.net/images/anime/5/64753.jpg"
+                    },
+                    "title": "Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi"
+                },
+                "relation_type": "other",
+                "relation_type_formatted": "Other"
+            }
+        ],
+        "related_manga": [],
+        "source": "novel",
+        "start_date": "2006-08-15",
+        "start_season": {
+            "season": "summer",
+            "year": 2006
+        },
+        "statistics": {
+            "num_list_users": 402,
+            "status": {
+                "completed": "164",
+                "dropped": "51",
+                "on_hold": "12",
+                "plan_to_watch": "161",
+                "watching": "14"
+            }
+        },
+        "status": "finished_airing",
+        "studios": [
+            {
+                "id": 247,
+                "name": "Shin-Ei Animation"
+            }
+        ],
+        "synopsis": "The fifth film in Shin-Ei's series of annual WWII themed anime television movies for children \"Sensou Douwa\" (war story).\n\n(Source: AniDB)",
+        "title": "Yakeato no, Okashi no Ki",
+        "updated_at": "2021-02-18T14:52:14+00:00"
+    },
+    "last_updated": 0,
+    "variants": [
+        {
+            "id": "yakeato-no-okashi-no-ki",
+            "label": "Yakeato no, Okashi no Ki",
+            "episodes": [
+                {
+                    "label": "0",
+                    "link": "https://www05.gogoplay.in/www04/-dsv6Wi7xyzJgnHXleiXmw/1642978119/42ba529d7a3ce33be990f7e61c547ab2/ep.1.v0.1642687456.m3u8",
+                    "added_in": 1642891720
+                }
+            ],
+            "last_updated": 1642891720
+        }
+    ]
+}
