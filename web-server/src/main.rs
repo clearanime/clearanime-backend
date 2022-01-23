@@ -2,8 +2,7 @@ mod consts;
 mod scrape;
 mod storage;
 
-use actix_files::Files;
-use actix_web::{get, web, App, HttpResponse, HttpServer, Responder};
+use actix_web::{get, middleware::DefaultHeaders, web, App, HttpResponse, HttpServer, Responder};
 use env_logger::Builder;
 use log::LevelFilter;
 use serde::Deserialize;
@@ -45,13 +44,12 @@ async fn main() -> std::io::Result<()> {
             .app_data(storage.clone())
             .service(get_anime_list)
             .service(get_anime_details)
-            .service(
-                Files::new("", "dist")
-                    .index_file("index.html")
-                    .use_last_modified(true),
-            )
+            .wrap(DefaultHeaders::new().add((
+                "Access-Control-Allow-Origin",
+                "https://clearanime.freemyip.com",
+            )))
     })
-    .bind("0.0.0.0:8080")?
+    .bind("0.0.0.0:8580")?
     .run()
     .await
 }
